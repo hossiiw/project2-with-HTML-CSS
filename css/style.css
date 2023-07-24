@@ -1,0 +1,102 @@
+body{
+    /* margin: 0; */
+    text-align: center;
+
+
+}
+.my-name{
+    font-family: cursive;
+    font-style: italic;
+}
+.top-container{
+    background-color: #fcaeae;
+
+}
+
+.middle-container{
+    padding-top: 50px;
+    background-color:#ff8989 ;
+    padding-bottom: 1.25rem;
+}
+.bottom-container{
+    padding-bottom: 1.25rem;
+    background-color: #ff6666;
+}
+table{
+    margin: 0 auto 0 auto;
+}
+.intro-of-me{
+    padding-bottom: 10rem ;
+}
+.my-favorate-hobbies{
+    padding: 0.625rem;
+    padding-bottom: 6.25rem;
+}
+.my-img{
+    width: 12.5rem;
+    height: 12.5rem;
+    border-radius: 6.25rem;
+}
+img{
+    width: 5rem;
+}
+
+.first-hobbie{
+    margin: 0 auto 0 auto;
+    width: 0.5erm;
+    padding: 6rem;
+}
+
+.feild-img{
+    position: relative;
+    width: 6rem;
+    right: 300px;
+    top: 100px;
+}
+
+.cooding-img{
+    position: relative;
+    width: 6rem;
+    left:18.75rem;
+    top: 6.25rem;
+}
+p{
+    width: 32rem;
+    margin: auto;
+    line-height: 2;
+
+}
+.soccer-ph{
+    color:#001c30;
+}
+
+span{
+
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+    margin: 0 20px 0 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+a:hover{
+    color: white;
+
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 6.25rem;
+    border-width: 0.625rem;
+
+}
+hr:hover{
+    border-color: #ff6666;
+}
+
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(71, 59, 59);
+}
+
